@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-click/static/css/main.8ac5fb0d.chunk.css",
-  "main.js": "/react-click/static/js/main.3922d39f.chunk.js",
-  "main.js.map": "/react-click/static/js/main.3922d39f.chunk.js.map",
+  "main.css": "/react-click/static/css/main.4a90dbcf.chunk.css",
+  "main.js": "/react-click/static/js/main.b2e7336b.chunk.js",
+  "main.js.map": "/react-click/static/js/main.b2e7336b.chunk.js.map",
   "static/js/1.d7c32593.chunk.js": "/react-click/static/js/1.d7c32593.chunk.js",
   "static/js/1.d7c32593.chunk.js.map": "/react-click/static/js/1.d7c32593.chunk.js.map",
   "runtime~main.js": "/react-click/static/js/runtime~main.8ddc6ef7.js",
   "runtime~main.js.map": "/react-click/static/js/runtime~main.8ddc6ef7.js.map",
-  "static/css/main.8ac5fb0d.chunk.css.map": "/react-click/static/css/main.8ac5fb0d.chunk.css.map",
+  "static/css/main.4a90dbcf.chunk.css.map": "/react-click/static/css/main.4a90dbcf.chunk.css.map",
   "index.html": "/react-click/index.html",
-  "precache-manifest.c590d666287bc779e7f69ca289374d56.js": "/react-click/precache-manifest.c590d666287bc779e7f69ca289374d56.js",
+  "precache-manifest.58eba3c98435ab567d63bf27c8ef442a.js": "/react-click/precache-manifest.58eba3c98435ab567d63bf27c8ef442a.js",
   "service-worker.js": "/react-click/service-worker.js"
 }

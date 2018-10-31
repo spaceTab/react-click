@@ -2,16 +2,16 @@ import React from "react";
 
 const cardStyle = {
     Card: {
-        width: '125px',
-        height: '125px',
+        width: '200px',
+        height: '200px',
         // margin: '15px 15px 15px 15px'
     }
 }
 
 const imageSize = {
     Card: {
-        width: "125px",
-        height: "125px"
+        width: "200px",
+        height: "200px"
     }
 }
 
