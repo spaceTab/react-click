@@ -6,7 +6,7 @@
 
 ### Click car is a simple app game to test your memory, as well as marvel over some beautiful classic cars. There are 12 different cards all filled with photo's of a different car. The player can only click these cars one time, with objective of clicking every car with out forgetting which one has previously been clicked. With each click the cars get shuffled, making it a true test of ones memory. 
 
-[Photo](./public/assets/images/display.png)
+![Photo](./public/assets/images/display.png)
 
 
 # Technologies used
